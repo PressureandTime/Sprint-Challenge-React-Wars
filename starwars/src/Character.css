@@ -1,0 +1,11 @@
+.individual-character {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    padding: 0.5rem;
+    border: 1px solid gray;
+
+}
+
+
+

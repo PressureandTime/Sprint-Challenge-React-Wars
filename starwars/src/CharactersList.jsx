@@ -1,5 +1,6 @@
 import React from 'react';
 import Character from './Character';
+import './CharactersList.css';
 
 class CharactersList extends React.Component {
   constructor() {
@@ -9,7 +10,7 @@ class CharactersList extends React.Component {
   render() {
 
     return (
-      <div>
+      <div className="character-overview">
 
         {
 
