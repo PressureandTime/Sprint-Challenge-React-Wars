@@ -4,4 +4,10 @@ body {
   font-family: sans-serif;
   background-image: url('./sw-bg.jpg');
   background-size: cover;
+  
+}
+
+
+p{
+  color: black;
 }

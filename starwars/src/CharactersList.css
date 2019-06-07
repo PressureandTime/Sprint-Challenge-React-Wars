@@ -1,8 +1,12 @@
 .character-overview {
   display: flex;
-  padding: 1rem;
-  justify-content: space-between;
-
+  
+  padding: 2rem;
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  
 
 }
 
